@@ -138,6 +138,16 @@ a{
     h1{
         font-size: 75px;
     }
+
+    .container {
+        width: 100%;
+        height: 100vh;
+    }
+
+    .projet{
+        width: 97%;
+    }
+
     .text-developer{
         margin: 0;
     }
